@@ -4,11 +4,11 @@ description: 꿈꾸는 개발자
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://palbook27.github.io"
 # User settings
-username: palbook27의 스터디공간
+username: 스터디공간
 user_description: 안녕하세요. 스터디를 하면서 남기는 공간입니다. Visit my blog here <a href="https://palbook27.github.io" target="_blank">https://palbook27.github.io</a>
-user_title: Software Engineer
+user_title: 꿈꾸는 개발자 - palbook27
 email: palbook27@gmail.com
-# github_username:  palbook27
+github_username:  palbook27
 
 google-analytics:
   id: ""
