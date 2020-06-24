@@ -10,8 +10,8 @@ exclude:
 
 # Site settings
 title: Palbook's Study Room 
-subtitle: "갈길이 먼 개발자의 스터디블로그"
-email: Palbook27@gmail.com
+subtitle: "갈 길이 먼 개발자의 스터디블로그"
+email: palbook27@gmail.com
 name: Palbook27
 description: >
   Study blog.
@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: empty
+    url: https://twitter.com/
     desc: Follow me on Twitter
     share: false
 
